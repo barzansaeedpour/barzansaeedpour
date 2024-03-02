@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barzan</h1>
-<h3 align="center">A passionate data scientist - ML\CV</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barzansaeedpour&label=Profile%20views&color=0e75b6&style=flat" alt="barzansaeedpour" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barzansaeedpour" alt="barzansaeedpour" /></a> </p>
-
-- 🔭 I’m currently working on [ANPR](https://github.com/barzansaeedpour/ANPR-YOLOv8)
-
-- 👯 I’m looking to collaborate on [Few-Shot Learning](https://github.com/barzansaeedpour/few-shot-learning-using-just-5-images)
+<h3 align="center">Machine Learning - Data Science</h3>
 
 - 📫 How to reach me **barzansaeedpour@gmail.com**
 
