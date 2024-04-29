@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barzan</h1>
 <h3 align="center">Machine Learning - Data Science</h3>
 
-- 📫 How to reach me **barzansaeedpour@gmail.com** - <a href="https://linkedin.com/in/barzan-saeedpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barzan-saeedpour" height="30" width="40" /></a>
+- 📫 How to reach me **barzansaeedpour@gmail.com** / **https://www.linkedin.com/in/barzan-saeedpour/**
 
 <!---
 <h3 align="left">Connect with me:</h3>
