@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barzan</h1>
-<h3 align="center">Machine Learning - Data Science - MLOps</h3>
+<h3 align="center">Python - Machine Learning - Data Science - MLOps</h3>
 
 - 📫 How to reach me **barzansaeedpour@gmail.com** / **https://www.linkedin.com/in/barzan-saeedpour/**
 
