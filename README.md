@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Barzan</h1>
+<h1 align="center">Hi, I'm Barzan</h1>
 <h3 align="center">Python - Machine Learning - Computer Vision - Data Science - MLOps</h3>
 
 - 📫 How to reach me **barzansaeedpour@gmail.com** / **https://www.linkedin.com/in/barzan-saeedpour/**
