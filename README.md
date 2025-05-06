@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Barzan</h1>
-<h3 align="center">Python - Machine Learning - Computer Vision - Data Science - MLOps</h3>
+<h3 align="center">Machine Learning - Computer Vision - Data Science - MLOps - Python</h3>
 
-- 📫 How to reach me **barzansaeedpour@gmail.com** / **https://www.linkedin.com/in/barzan-saeedpour/**
+- 📫 How to reach me
+  - Email: **barzansaeedpour@gmail.com**
+  - LinkedIn: **https://www.linkedin.com/in/barzan-saeedpour/**
 
 <!---
 <h3 align="left">Connect with me:</h3>
