@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Barzan 👋</h1>
 
-<h2 align="center">Machine Learning Engineer & Researcher</h2>
-
+<h3 align="center">Machine Learning Engineer & Researcher</h3>
 <h3 align="center">AI | Machine Learning | Computer Vision | MLOps | Python </h3>
 
 ---
